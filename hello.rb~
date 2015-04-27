@@ -1,3 +1,6 @@
+# Default is "World"
+# Author: Connor Doria
 name = ARGV.first || "World"
+
 puts "Hello, #{name}!"
 
